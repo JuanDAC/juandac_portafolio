@@ -74,7 +74,7 @@ var HomePage = /** @class */ (function () {
                     }, {
                         title: 'USO DEL IMAGOTIPO',
                         imgSrc: "http://lh3.googleusercontent.com/EawVyapZy4MyILr5bC-Z7I-ztiDPLwsv2B39pJSbwPNh2Hk4iZevZ682sgJ_DhYKpXsYieguW3L0a_fAfiXlruHI4HeU8K2wPFvm5EEioYwHIz80zQywErZE_w0zLwedPSOywQR-=w595-h832-no",
-                        pdfLC: true
+                        sections: "Aplicación de marca"
                     }
                 ]
             }, {

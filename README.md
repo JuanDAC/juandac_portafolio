@@ -12,6 +12,8 @@
 	</a>
 </div>
 
+<br />
+
 I'm **JuanDAC** Juan David Avila Caycedo
 
 I believe in technology as a tool that can change people's lives for the better. for this reason I'm self-taught
@@ -50,5 +52,6 @@ I’m currently learning about Low Leve and IA Machine Learnig In Holberton Scho
 
 <div style="display: flex;width: 100vw; flex-wrap: wrap; justify-content:center;gap: 25px;">
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=JuanDAC&theme=vue&show_icons=true" alt="My github stats" />
+	<br />
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDAC&layout=compact&theme=vue&langs_count=6" alt="My github stats"/>
 </div>

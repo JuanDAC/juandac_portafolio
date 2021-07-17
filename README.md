@@ -12,7 +12,7 @@
 	</a>
 </div>
 
-<br />
+<br>
 
 I'm **JuanDAC** Juan David Avila Caycedo
 
@@ -22,7 +22,7 @@ I have knowledge of software design patterns under the SOLID principles, agile m
 
 I'm passionate about the Back-end as much as the Front-end, dynamic programming, design thinking, user experience and artificial intelligence.
 
-I’m currently learning about Low Leve and IA Machine Learnig In Holberton School
+I’m currently learning about Low Level and IA Machine Learnig In Holberton School
 
 ## My favorite Tech.
 
@@ -52,6 +52,6 @@ I’m currently learning about Low Leve and IA Machine Learnig In Holberton Scho
 
 <div style="display: flex;width: 100vw; flex-wrap: wrap; justify-content:center;gap: 25px;">
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=JuanDAC&theme=vue&show_icons=true" alt="My github stats" />
-	<br />
+	<br>
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDAC&layout=compact&theme=vue&langs_count=6" alt="My github stats"/>
 </div>

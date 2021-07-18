@@ -24,7 +24,7 @@ I have knowledge of software design patterns under the SOLID principles, agile m
 
 I'm passionate about the Back-end as much as the Front-end, dynamic programming, design thinking, user experience and artificial intelligence.
 
-I’m currently learning about Low Leve and IA Machine Learnig In Holberton School
+I’m currently learning about Low Level and IA Machine Learnig In Holberton School
 
 ## My favorite Tech.
 
